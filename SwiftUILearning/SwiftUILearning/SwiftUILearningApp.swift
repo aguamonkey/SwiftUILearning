@@ -15,7 +15,11 @@ struct SwiftUILearningApp: App {
             //BackgroundThreadLearning()
             //WeakSelfLearning()
             //CodableLearning()
-            DownloadWithEscapingLearning()
+            //DownloadWithEscapingLearning()
+            //DownloadWithCombine()
+            //MagnificationGestureLearning()
+            //RotatingGestureLearning()
+            DragGestureLearning()
         }
     }
 }

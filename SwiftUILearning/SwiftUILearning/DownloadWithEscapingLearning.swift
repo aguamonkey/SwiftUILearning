@@ -9,12 +9,12 @@ import SwiftUI
 
 // Again Model, View Model, View
 // Codable decodes our data efficiently.
-struct PostsModel: Identifiable, Codable {
-    let userId: Int
-    let id: Int
-    let title: String
-    let body: String
-}
+//struct PostsModel: Identifiable, Codable {
+//    let userId: Int
+//    let id: Int
+//    let title: String
+//    let body: String
+//}
 
 class DownloadWithEscapingViewModel: ObservableObject {
     

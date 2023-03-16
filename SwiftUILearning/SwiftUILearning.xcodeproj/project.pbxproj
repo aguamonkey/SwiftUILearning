@@ -20,6 +20,15 @@
 		6265246329BA1A070085209D /* EscapingLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265246229BA1A070085209D /* EscapingLearning.swift */; };
 		6265246529BA22430085209D /* CodableLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265246429BA22430085209D /* CodableLearning.swift */; };
 		6265246729BA30DE0085209D /* DownloadWithEscapingLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265246629BA30DE0085209D /* DownloadWithEscapingLearning.swift */; };
+		6265246C29BF4C090085209D /* DownloadWithCombine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265246B29BF4C090085209D /* DownloadWithCombine.swift */; };
+		6265246E29BF6C0C0085209D /* TimerLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265246D29BF6C0C0085209D /* TimerLearning.swift */; };
+		6265247029BF78740085209D /* SubscriberLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265246F29BF78740085209D /* SubscriberLearning.swift */; };
+		6265247229C079060085209D /* ArraysLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265247129C079060085209D /* ArraysLearning.swift */; };
+		6265247429C087DF0085209D /* LongPressedGestureLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265247329C087DF0085209D /* LongPressedGestureLearning.swift */; };
+		6265247629C090410085209D /* MagnificationGestureLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265247529C090410085209D /* MagnificationGestureLearning.swift */; };
+		6265247829C0975D0085209D /* RotatingGestureLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265247729C0975D0085209D /* RotatingGestureLearning.swift */; };
+		6265247A29C099AE0085209D /* DragGestureLearning.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265247929C099AE0085209D /* DragGestureLearning.swift */; };
+		6265247C29C09FA70085209D /* DragGestureLearningTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6265247B29C09FA70085209D /* DragGestureLearningTwo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +65,15 @@
 		6265246229BA1A070085209D /* EscapingLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscapingLearning.swift; sourceTree = "<group>"; };
 		6265246429BA22430085209D /* CodableLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodableLearning.swift; sourceTree = "<group>"; };
 		6265246629BA30DE0085209D /* DownloadWithEscapingLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithEscapingLearning.swift; sourceTree = "<group>"; };
+		6265246B29BF4C090085209D /* DownloadWithCombine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombine.swift; sourceTree = "<group>"; };
+		6265246D29BF6C0C0085209D /* TimerLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerLearning.swift; sourceTree = "<group>"; };
+		6265246F29BF78740085209D /* SubscriberLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberLearning.swift; sourceTree = "<group>"; };
+		6265247129C079060085209D /* ArraysLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysLearning.swift; sourceTree = "<group>"; };
+		6265247329C087DF0085209D /* LongPressedGestureLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressedGestureLearning.swift; sourceTree = "<group>"; };
+		6265247529C090410085209D /* MagnificationGestureLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureLearning.swift; sourceTree = "<group>"; };
+		6265247729C0975D0085209D /* RotatingGestureLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatingGestureLearning.swift; sourceTree = "<group>"; };
+		6265247929C099AE0085209D /* DragGestureLearning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureLearning.swift; sourceTree = "<group>"; };
+		6265247B29C09FA70085209D /* DragGestureLearningTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureLearningTwo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,11 +129,20 @@
 				6265243629B9F8100085209D /* Assets.xcassets */,
 				6265243829B9F8100085209D /* Preview Content */,
 				6265245C29B9F8550085209D /* BackgroundThreadLearning.swift */,
+				6265247329C087DF0085209D /* LongPressedGestureLearning.swift */,
+				6265247529C090410085209D /* MagnificationGestureLearning.swift */,
+				6265247729C0975D0085209D /* RotatingGestureLearning.swift */,
+				6265247929C099AE0085209D /* DragGestureLearning.swift */,
+				6265247B29C09FA70085209D /* DragGestureLearningTwo.swift */,
 				6265245E29BA0B4E0085209D /* WeakSelfLearning.swift */,
 				6265246029BA17C90085209D /* TypeAliasLearning.swift */,
 				6265246229BA1A070085209D /* EscapingLearning.swift */,
 				6265246429BA22430085209D /* CodableLearning.swift */,
 				6265246629BA30DE0085209D /* DownloadWithEscapingLearning.swift */,
+				6265246B29BF4C090085209D /* DownloadWithCombine.swift */,
+				6265246D29BF6C0C0085209D /* TimerLearning.swift */,
+				6265246F29BF78740085209D /* SubscriberLearning.swift */,
+				6265247129C079060085209D /* ArraysLearning.swift */,
 			);
 			path = SwiftUILearning;
 			sourceTree = "<group>";
@@ -276,13 +303,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				6265246329BA1A070085209D /* EscapingLearning.swift in Sources */,
+				6265247A29C099AE0085209D /* DragGestureLearning.swift in Sources */,
+				6265247629C090410085209D /* MagnificationGestureLearning.swift in Sources */,
 				6265246129BA17C90085209D /* TypeAliasLearning.swift in Sources */,
+				6265246C29BF4C090085209D /* DownloadWithCombine.swift in Sources */,
 				6265243529B9F80E0085209D /* ContentView.swift in Sources */,
+				6265247429C087DF0085209D /* LongPressedGestureLearning.swift in Sources */,
 				6265246529BA22430085209D /* CodableLearning.swift in Sources */,
+				6265247229C079060085209D /* ArraysLearning.swift in Sources */,
+				6265247829C0975D0085209D /* RotatingGestureLearning.swift in Sources */,
+				6265246E29BF6C0C0085209D /* TimerLearning.swift in Sources */,
 				6265245D29B9F8550085209D /* BackgroundThreadLearning.swift in Sources */,
 				6265243329B9F80E0085209D /* SwiftUILearningApp.swift in Sources */,
 				6265245F29BA0B4E0085209D /* WeakSelfLearning.swift in Sources */,
 				6265246729BA30DE0085209D /* DownloadWithEscapingLearning.swift in Sources */,
+				6265247029BF78740085209D /* SubscriberLearning.swift in Sources */,
+				6265247C29C09FA70085209D /* DragGestureLearningTwo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
